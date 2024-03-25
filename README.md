@@ -1,5 +1,8 @@
 📈 🔍 Sales Forecast: Revealing Insights with Power BI
 
+#![Sales_Forecast](https://github.com/shruthi2023/Sales_Forecast_Revealing_Insights_With_PowerBI/assets/126853880/e9f0921b-acb8-44b9-beab-eadf4f4d517b)
+
+
 Tools and techniques used:
 
 🔹 Imported the Excel file sales dataset into Power BI
